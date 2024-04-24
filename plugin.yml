@@ -1,0 +1,6 @@
+name: Knockback
+version: 1.0.0
+author: czp8
+main: czp8\kb\Main
+description: Knockback
+api: 5.0.0
